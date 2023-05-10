@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cbportfolio.cbport.CbportApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.614 s - in com.cbportfolio.cbport.CbportApplicationTests
